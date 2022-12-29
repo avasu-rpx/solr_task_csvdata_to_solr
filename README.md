@@ -1,9 +1,9 @@
 # solr_task_csvdata_to_solr
 
-->created new container in docker name- Apache jupyter,Done the neccessary installation and updates 
+#->created new container in docker name- Apache jupyter,Done the neccessary installation and updates 
 
-apt-get upgrade
-apt-get update
+# apt-get upgrade
+# apt-get update
 apt install python3
 apt install python3-pip
 pip3 install jupyter
