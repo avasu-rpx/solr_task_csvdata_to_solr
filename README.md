@@ -2,7 +2,7 @@
 
 #->created new container in docker name- Apache jupyter,Done the neccessary installation and updates 
 
-apt-get upgrade
+apt-get upgrade <br>
 apt-get update
 apt install python3
 apt install python3-pip
